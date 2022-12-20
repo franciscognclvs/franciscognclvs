@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there, I'm Francisco 👋
 
-<!--
-**franciscognclvs/franciscognclvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franciscognclvs/)](https://www.linkedin.com/in/franciscognclvs/)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fgp1991@gmail.com)](mailto:fgp1991@gmail.com)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**About Me**
+
+- :man_technologist: Focused on Ruby on Rails projects;
+- :bus: Full Stack Web Developer, graduated from [Le Wagon's Coding Bootcamp](https://www.lewagon.com/);
+- :man_cook: Worked 11 years as a Chef before start code;
+- :firefighter: I'm not a firefighter but I put out three fires.
+
+---
+
+**My Github**
+
+![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=franciscognclvs&show_icons=true&theme=tokyonight&count_private=true)
