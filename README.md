@@ -14,7 +14,6 @@
 - :man_technologist: Focused on Ruby on Rails projects;
 - :bus: Full Stack Web Developer, graduated from [Le Wagon's Coding Bootcamp](https://www.lewagon.com/);
 - :man_cook: Worked 11 years as a Chef before start code;
-- :firefighter: I'm not a firefighter but I put out three fires.
 
 ---
 
